@@ -16,6 +16,8 @@
     "url": "https://github.com/kateMallinson1/boiler_Plate/issues"
   },
   "homepage": "https://github.com/kateMallinson1/boiler_Plate#readme",
-  "dependencies": {},
+  "dependencies": {
+    "node": "^11.12.0"
+  },
   "devDependencies": {}
 }
