@@ -1,19 +1,21 @@
 {
   "name": "boiler_plate",
   "version": "1.0.0",
-  "description": "",
+  "description": "boiler plate project for wd.io with dependant packages for test setup",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npm run test"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kateMallinson1/boiler_Plate.git"
   },
-  "author": "",
+  "author": "katemallinson",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/kateMallinson1/boiler_Plate/issues"
   },
-  "homepage": "https://github.com/kateMallinson1/boiler_Plate#readme"
+  "homepage": "https://github.com/kateMallinson1/boiler_Plate#readme",
+  "dependencies": {},
+  "devDependencies": {}
 }
