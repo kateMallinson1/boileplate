@@ -1,5 +1,5 @@
 {
-  "name": "boiler_plate",
+  "name": "boilerplate",
   "version": "1.0.0",
   "description": "boiler plate project for wd.io with dependant packages for test setup",
   "main": "index.js",
@@ -18,14 +18,16 @@
   "homepage": "https://github.com/kateMallinson1/boiler_Plate#readme",
   "dependencies": {
     "chai": "^4.2.0",
+    "io": "^1.0.0",
     "jasmine": "^3.3.1",
     "mocha": "^6.0.2",
     "node": "^11.12.0",
     "node.js": "0.0.0",
+    "npm": "^6.9.0",
     "selenium": "^2.20.0",
     "server": "^1.0.18",
     "typescript": "^3.3.4000",
-    "webdriver": "^5.7.5",
+    "webdriver": "^5.7.8",
     "webdriverio": "^5.7.5"
   },
   "devDependencies": {}
